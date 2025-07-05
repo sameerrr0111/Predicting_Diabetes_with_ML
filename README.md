@@ -22,8 +22,6 @@ The dataset includes medical features such as:
 - Blood Glucose
 - And other relevant diagnostic attributes.
 
-*Note: Add the dataset source here if it’s public. If it’s private or course-provided, mention that too.*
-
 ---
 
 ## 🔍 What I Did
