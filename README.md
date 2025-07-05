@@ -76,7 +76,7 @@ To run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone [YOUR_REPO_LINK]
+   git clone https://github.com/sameerrr0111/Predicting_Diabetes_with_ML
 2. Open the code in VS Code or any other editor.
 
 3. Install the dependencies
